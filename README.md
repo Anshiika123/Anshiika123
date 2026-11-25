@@ -20,4 +20,4 @@ I'm especially interested in building useful software and learning how thoughtfu
 
 `Python` · `C++` · `Django` · `Flask` · `FastAPI` · `React` · `PostgreSQL` · `scikit-learn` · `Git`
 
-I’m especially interested in **backend engineering, full-stack development, and practical ML**. Explore the repositories above for the code, setup instructions, and design decisions.
+I’m especially interested in  building useful software and learning how thoughtful product decisions can make complex ideas easier to use. Explore the repositories above for the code, setup instructions, and design decisions.
