@@ -15,3 +15,9 @@ I'm an Electronics and Communication Engineering student at IGDTUW. I like build
 **[AI Dev Team](https://github.com/Anshiika123/my-own-ai-agents)** is an experiment in how specialised AI agents can work together on a software project. What interested me most was how to give each agent a clear job and bring their work back together.
 
 I'm especially interested in building useful software and learning how thoughtful product decisions can make complex ideas easier to use.
+
+### Tools I work with
+
+`Python` · `C++` · `Django` · `Flask` · `FastAPI` · `React` · `PostgreSQL` · `scikit-learn` · `Git`
+
+I’m especially interested in **backend engineering, full-stack development, and practical ML**. Explore the repositories above for the code, setup instructions, and design decisions.
