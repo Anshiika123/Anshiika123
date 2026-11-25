@@ -2,7 +2,7 @@
 
 I'm an Electronics and Communication Engineering student at IGDTUW. I like building things that solve a clear problem and make someone's day a little easier. My projects have taken me from local services and business tools to forecasting and AI experiments.
 
-## Projects I care about
+## Projects I have built
 
 **[BestDentistIn](https://github.com/Anshiika123/BestDentistIn)** started with a simple question: why should finding a dentist nearby feel difficult? I built a way for people to discover local clinics and contact them directly. I enjoyed thinking through both sides of the experience: what a patient needs to know and how a clinic can keep track of new enquiries.
 
